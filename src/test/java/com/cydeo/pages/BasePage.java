@@ -25,4 +25,6 @@ public class BasePage {
 
     @FindBy(xpath = "//button[.='Logout']")
     public WebElement logoutButton;
+
+//commit ekleme denemesi
 }
